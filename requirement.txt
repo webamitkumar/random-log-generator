@@ -1,0 +1,3 @@
+pip install beautifulsoup4 pandas numpy matplotlib
+
+TIMESTAMP LOG_TYPE ACTION USER:USER_NAME/ID
